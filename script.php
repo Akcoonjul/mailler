@@ -34,7 +34,7 @@
 		
 		/* SET THE EMAIL ADDRESS YOU WANT TO RECEIVE THE MESSAGES  */
 		/* =============================================== */
-		$to = "someadress@mail.com";
+		$to = "ankushcoonjul@mail.com";
 		/* =============================================== */
 
 		
